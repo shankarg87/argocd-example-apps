@@ -17,5 +17,5 @@ spec:
       backendRefs:
         - name: productpage
           namespace: bookinfo
-          port: 80
+          port: 9080
 
